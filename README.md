@@ -439,9 +439,12 @@ Building production-grade software systems across:
 
 # Contribution Snake
 
+
+# Contribution Snake
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sankeerthana0/sankeerthana0/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/sankeerthana0/sankeerthana0/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 

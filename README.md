@@ -1,27 +1,484 @@
-# 💫 About Me:
-I’m currently working on<br><br>Machine Learning & Deep Learning projects (CNNs, Autoencoders, Anomaly Detection)<br><br>Financial Fraud Detection using Benford’s Law + ML ensembles<br><br>Cybersecurity projects like Intrusion Detection Systems (IDS) and Log Exploit Detection<br><br>End-to-end ML systems with Streamlit dashboards, Docker, Kafka, and Kubernetes<br><br>👯 I’m looking to collaborate on<br><br>AI/ML research projects (Computer Vision, Anomaly Detection, Explainable AI)<br><br>Cybersecurity + AI (Threat Intelligence, IDS, Log Analysis)<br><br>Open-source ML tools, datasets, or benchmarking projects<br><br>High-impact DevSecOps or cloud-native AI systems<br><br>🤝 I’m looking for help with<br><br>Advanced model optimization & deployment (TensorRT, CUDA, NVIDIA stack)<br><br>Scaling ML pipelines (MLOps, CI/CD, monitoring)<br><br>Publishing research-oriented ML projects and papers<br><br>🌱 I’m currently learning<br><br>Advanced Deep Learning & representation learning<br><br>Graphs, advanced DSA, and competitive-style problem solving<br><br>Cloud, DevOps & MLOps (Docker, Kubernetes, Terraform, CI/CD)<br><br>Cybersecurity fundamentals + offensive/defensive techniques<br><br>💬 Ask me about<br><br>Machine Learning & Deep Learning (CNNs, Autoencoders, Imbalance handling)<br><br>Data Structures & Algorithms (Java-focused)<br><br>Computer Networks, OS, DBMS, and system design basics<br><br>Fraud detection, anomaly detection, and ML project architecture<br><br>⚡ Fun fact<br><br>I don’t just train models — I build complete systems around them (data → model → deployment → dashboard).
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6D28D9,50:7C3AED,100:2563EB&text=Sankeerthana%20Verneni&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Systems%20Engineer&descAlignY=55&animation=fadeIn" width="100%" />
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/sankeerthana17) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sankeerthana verrneni) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/latentstack) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sankeerthana-verneni-98a120290) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Vernenisankeerthana) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Sankeerthana) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sankeerthana Verneni) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Ok_Heron_4881) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30970426) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sankeerthana_stackk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ www.youtube.com/@latent_stackkk) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/sankeerthana verneni) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@sankeerthanaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vernenisankeerthana@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Software+Engineer;AI+Systems+Engineer;Building+Scalable+Intelligent+Systems;Backend+Engineering+%7C+AI+Infrastructure;Production-Grade+Software+Development" />
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sankeerthana0&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sankeerthana0&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sankeerthana0&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/AIML-Engineer-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software-Engineering-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Systems-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Engineering-4F46E5?style=for-the-badge" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sankeerthana0&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Andhra%20Pradesh%2C%20India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://github.com/sankeerthana0">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sankeerthana0&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <a href="https://www.linkedin.com/sankeerthana-verneni-deploy">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:vernenisankeerthana@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/verneni/">
+    <img src="https://img.shields.io/badge/LeetCode-DSA-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sankeerthana0&style=for-the-badge&color=7C3AED" />
+  <img src="https://img.shields.io/github/followers/sankeerthana0?style=for-the-badge&color=6D28D9" />
+  <img src="https://img.shields.io/github/stars/sankeerthana0?style=for-the-badge&color=4F46E5" />
+</p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sankeerthana0&icon=8&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About Me
+
+Software Engineer passionate about building **scalable software systems, intelligent applications, and production-grade AI platforms**.
+
+I focus on designing **high-performance backend systems**, **AI-powered platforms**, and **enterprise-grade engineering solutions** that bridge software engineering with intelligent automation.
+
+My engineering interests span:
+
+- Scalable Backend Systems
+- AI Systems Engineering
+- Distributed Systems
+- Intelligent Automation
+- Real-Time Analytics Platforms
+- Cyber Threat Intelligence
+- Production AI Reliability
+- MLOps & Deployment Infrastructure
+
+### Open To
+
+- Software Engineering Internships
+- Backend Engineering Roles
+- AI Systems Engineering
+- Product Engineering
+- Full-Time Graduate Software Roles
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,sql,bash" />
+</p>
+
+### Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### Backend & Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,postgres,mongodb,redis,mysql" />
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,githubactions,linux,prometheus,grafana" />
+</p>
+
+### AI / ML Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|-------------|----------|
+| Machine Learning | Advanced | Predictive Systems, Classification, Regression |
+| Deep Learning | Advanced | Neural Networks, CNNs, Representation Learning |
+| LLM Systems | Advanced | RAG, Multi-Agent Systems, Evaluation Pipelines |
+| MLOps | Intermediate | Monitoring, Model Reliability, Deployment |
+| Computer Vision | Intermediate | Detection & Analytics |
+| Security AI | Advanced | Threat Detection, Anomaly Systems |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>🟣 Synapse — Multi-Agent Threat Intelligence System</b></summary>
+
+### Overview
+
+Enterprise-grade **multi-agent threat intelligence platform** designed for intelligent cyber analysis, contextual threat reasoning, and agent orchestration.
+
+| Category | Details |
+|-----------|---------|
+| Stack | TypeScript, AI Agents, Vector DB |
+| Scale | Multi-Agent Orchestration |
+| Performance | Real-time Analysis |
+| Security | Threat Intelligence |
+| Impact | Enterprise Security Automation |
+| Repository | `Synapse` |
+
+**Highlights**
+- Multi-agent intelligence coordination
+- Intelligent cyber threat reasoning
+- Retrieval-Augmented workflows
+- Scalable modular architecture
+
+</details>
+
+<details>
+<summary><b>🟣 CSI — Enterprise Multi-Agent Cyber Threat Intelligence Agent</b></summary>
+
+### Overview
+
+Enterprise cyber intelligence system focused on **real-time threat monitoring, intelligence aggregation, and automated cyber reasoning**.
+
+| Category | Details |
+|-----------|---------|
+| Stack | TypeScript, Agent Systems |
+| Scale | Enterprise Security |
+| Performance | Real-Time Processing |
+| Security | Threat Detection |
+| Impact | Automated Intelligence |
+| Repository | `CSI` |
+
+**Highlights**
+- Threat intelligence pipelines
+- Multi-agent coordination
+- Automated cyber reasoning
+- Enterprise-scale design
+
+</details>
+
+<details>
+<summary><b>🟣 exploitGuard — Security Exploit Detection Platform</b></summary>
+
+### Overview
+
+Production-grade exploit detection platform engineered for **security vulnerability monitoring, attack detection, and exploit intelligence**.
+
+| Category | Details |
+|-----------|---------|
+| Stack | TypeScript, Detection Pipelines |
+| Scale | Security Platform |
+| Performance | Real-Time Monitoring |
+| Security | Exploit Detection |
+| Impact | Security Automation |
+| Repository | `exploitGuard` |
+
+</details>
+
+<details>
+<summary><b>🟣 AEGIS-EVAL — LLM Evaluation & Red Teaming Platform</b></summary>
+
+### Overview
+
+Advanced AI reliability platform for **LLM benchmarking, adversarial evaluation, prompt testing, and AI safety analysis**.
+
+| Category | Details |
+|-----------|---------|
+| Stack | TypeScript, LLM Evaluation |
+| Scale | Enterprise AI |
+| Performance | High Throughput |
+| Security | Red Teaming |
+| Impact | AI Reliability |
+| Repository | `AEGIS-EVAL` |
+
+</details>
+<details>
+<summary><b>🟣 AEGIS — Production AI Monitoring & Reliability Platform</b></summary>
+
+### Overview
+
+Enterprise-grade AI observability platform designed to monitor **model reliability, drift detection, inference quality, and AI system health**.
+
+| Category | Details |
+|-----------|---------|
+| Stack | TypeScript, Monitoring Systems |
+| Scale | Production AI |
+| Performance | Real-Time Monitoring |
+| Security | Reliability Assurance |
+| Impact | AI Operations |
+| Repository | `AEGIS` |
+
+**Highlights**
+- AI reliability monitoring
+- Model observability pipelines
+- Drift & anomaly detection
+- Production-grade architecture
+
+</details>
+
+<details>
+<summary><b>🟣 Meploy — Real-Time ML Deployment Pipeline</b></summary>
+
+### Overview
+
+Scalable ML deployment infrastructure enabling **real-time model deployment, monitoring, versioning, and intelligent automation**.
+
+| Category | Details |
+|-----------|---------|
+| Stack | TypeScript, MLOps |
+| Scale | Enterprise ML |
+| Performance | Low-Latency Deployment |
+| Security | Pipeline Security |
+| Impact | ML Automation |
+| Repository | `Meploy` |
+
+**Highlights**
+- Real-time deployment workflows
+- Automated model pipelines
+- Intelligent monitoring
+- Production-ready infrastructure
+
+</details>
+
+<details>
+<summary><b>🟣 shortstack.io — Scalable URL Shortening Platform</b></summary>
+
+### Overview
+
+Production-grade URL shortening service engineered with **scalable backend architecture, analytics, and performance optimization**.
+
+| Category | Details |
+|-----------|---------|
+| Stack | Spring Boot, PostgreSQL, Redis |
+| Scale | High Traffic System |
+| Performance | Optimized APIs |
+| Security | Secure URL Management |
+| Impact | Backend Engineering |
+| Repository | `shortstack.io` |
+
+**Highlights**
+- Scalable backend design
+- Low-latency APIs
+- Redis-powered caching
+- Analytics-driven architecture
+
+</details>
+
+<details>
+<summary><b>🟣 BYTEJUDGE — Online Competitive Coding Evaluation System</b></summary>
+
+### Overview
+
+Full-stack coding assessment platform supporting **real-time coding challenges, automated evaluation, and scalable execution pipelines**.
+
+| Category | Details |
+|-----------|---------|
+| Stack | TypeScript, Full Stack |
+| Scale | Multi-User Platform |
+| Performance | Real-Time Evaluation |
+| Security | Secure Execution |
+| Impact | Developer Productivity |
+| Repository | `BYTEJUDGE` |
+
+**Highlights**
+- Real-time code execution
+- Automated evaluation engine
+- Multi-user support
+- Scalable platform design
+
+</details>
+
+---
+
+# Experience
+
+### Software Engineering & AI Systems Builder
+
+**Independent Engineering Projects**  
+**2025 — Present**
+
+Building production-grade software systems across:
+
+- AI Systems Engineering
+- Scalable Backend Development
+- Intelligent Automation
+- MLOps Platforms
+- Threat Intelligence Systems
+- Real-Time Monitoring Infrastructure
+
+**Skills**
+
+`Software Engineering` `Backend Development` `AI Systems`
+`Distributed Systems` `TypeScript` `Python`
+`Java` `System Design`
+
+---
+
+# Achievements
+
+| Recognition | Details |
+|-------------|---------|
+| AI Systems Engineering | Built intelligent multi-agent platforms |
+| Backend Systems | Designed scalable production-grade systems |
+| Open Source Engineering | Built enterprise-style repositories |
+| Problem Solving | Active DSA & coding practice |
+
+---
+
+# Certifications
+
+### Oracle
+
+![Oracle](https://img.shields.io/badge/Oracle-Certified-red?style=for-the-badge&logo=oracle)
+
+### Cisco
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)
+
+### NPTEL
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Certified-green?style=for-the-badge)
+
+### AWS
+
+![AWS](https://img.shields.io/badge/AWS-Learning-orange?style=for-the-badge&logo=amazonaws)
+
+---
+
+# Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/verneni/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sankeerthana0">
+<img src="https://img.shields.io/badge/GitHub-Open%20Source-111827?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/sankeerthana-verneni-deploy">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-2563EB?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sankeerthana0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sankeerthana0&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankeerthana0&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sankeerthana0&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sankeerthana0&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sankeerthana0/sankeerthana0/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Distributed Systems
+  - Scalable Backend Engineering
+  - AI Systems Design
+  - Advanced DSA
+
+Building:
+  - Multi-Agent AI Platforms
+  - Production AI Systems
+  - Intelligent Automation Platforms
+  - Enterprise Software Systems
+
+Exploring:
+  - MLOps Infrastructure
+  - AI Reliability Engineering
+  - High-Performance Systems
+  - Product Engineering
+
+Open_To:
+  - Software Engineering Internships
+  - Backend Engineering Roles
+  - AI Systems Engineering
+  - Product Engineering Opportunities
+```
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="mailto:vernenisankeerthana@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/sankeerthana-verneni-deploy">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-2563EB?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/sankeerthana0">
+<img src="https://img.shields.io/badge/GitHub-Explore%20Projects-111827?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/verneni/">
+<img src="https://img.shields.io/badge/LeetCode-View%20Profile-F89F1B?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### *"Engineering intelligent systems that scale, solve problems, and create impact."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6D28D9,50:7C3AED,100:2563EB" width="100%" />
+
+</div>

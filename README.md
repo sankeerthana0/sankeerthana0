@@ -421,9 +421,14 @@ Building production-grade software systems across:
 
 # GitHub Trophies
 
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sankeerthana0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sankeerthana0&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
+
 </div>
+
+
 
 ---
 

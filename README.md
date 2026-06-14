@@ -339,6 +339,35 @@ Building production-grade software systems across:
 
 # Certifications
 
+
+### Microsoft
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Engineer%20Associate%20(AI--102)-5E5CE6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft-Agentic%20AI%20Business%20Solutions%20Architect%20(AB--100)-9333EA?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+</p>
+
+### Oracle
+
+<img src="https://img.shields.io/badge/Oracle-Certified-red?style=for-the-badge&logo=oracle"/>
+
+### Cisco
+
+<img src="https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco"/>
+
+### NPTEL
+
+<img src="https://img.shields.io/badge/NPTEL-Certified-green?style=for-the-badge"/>
+
+### AWS
+
+<img src="https://img.shields.io/badge/AWS-Learning-orange?style=for-the-badge&logo=amazonaws"/>
+
 ### Oracle
 
 ![Oracle](https://img.shields.io/badge/Oracle-Certified-red?style=for-the-badge&logo=oracle)
